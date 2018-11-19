@@ -1,7 +1,5 @@
 ### What is this
-I like to listen to talks when I clean the house and move about. I would use the youtube mobile app IF it allowed you to listen to audio while your screen is off. But it doesn't (also youtube suggestions and ads are terrible things causing harm to our brains. dont forget u are the product). Anyways here's a little system that solves my problem. This script will download youtube audio and upload it to internet archive so that you may download it where and whenever. The hash and video title will be appended to this readme. Click the internet archive link associated with the title and there ya go, youtube audio. 
-
-BTW, the internet archive is awesome. I interviewed w/ them during the summer of 2018 and really enjoyed my time there. Great ppl. Consider donating if you got some change to spare: https://archive.org/donate/
+download youtube audio, upload to internet archive, append to readme
 
 ### What you need
 - python
@@ -9,7 +7,6 @@ BTW, the internet archive is awesome. I interviewed w/ them during the summer of
 - ffmpeg
 - internet archive account
 - internetarchive (pip install internetarchive & read https://internetarchive.readthedocs.io/en/latest/quickstart.html)
-- curiosity
 
 
 ### How to use
