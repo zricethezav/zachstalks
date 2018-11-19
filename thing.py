@@ -2,6 +2,8 @@ import sys
 import os
 import glob
 import re
+import random
+from internetarchive import upload
 from subprocess import Popen, PIPE
 
 def dl():
@@ -19,11 +21,12 @@ def dl():
     return fs[0]
 
 def ul(fn):
+    print('this might take a couple mins... uploading %s' % fn)
     os.rename(fn, 'ul.m4a')
-    cmd = 'ipfs add %s -Q' % 'ul.m4a'
-    result = Popen(cmd, shell=True, stdout=PIPE)
-    for line in result.stdout:
-        return line.decode('utf-8').replace('\n', '')
+    md = dict(title=fn[:-16], mediatype='audio')
+    h = str(random.getrandbits(128))
+    r = upload(h, files={fn: 'ul.m4a'}, metadata=md)
+    return h
 
 def clean(fn, h):
     if os.path.exists('README.md'):
@@ -32,7 +35,8 @@ def clean(fn, h):
         a_w = 'w'
 
     talks = open('README.md', a_w)
-    talks.write('\nhttps://ipfs.io/ipfs/%s %s\n' % (h, fn[:-16]))
+    print('give IA a couple mins for post processing: https://archive.org/details/%s ' % h)
+    talks.write('\nhttps://archive.org/details/%s %s\n' % (h, fn[:-16]))
     talks.close()
     os.remove('ul.m4a')
 
