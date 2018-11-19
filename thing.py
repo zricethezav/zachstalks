@@ -40,6 +40,11 @@ def clean(fn, h):
     talks.close()
     os.remove('ul.m4a')
 
+    c_msg = 'adding %s' % h
+    cmd = 'git add README.md && git commit -m \"%s\" && git push origin master' % c_msg
+    p = Popen(cmd, shell=True, stdout=PIPE)
+    p.wait()
+
 
 if __name__ == '__main__':
     fn = dl()

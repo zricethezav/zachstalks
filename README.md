@@ -27,3 +27,13 @@ https://archive.org/details/311066822640649276539650034285998119920 ERIE present
 https://archive.org/details/301241001883236889296294549107862445671 Chris Hedges, 'American Anomie'
 
 https://archive.org/details/87453512865201428628190552150469285039 Bill Ayers - Teaching And Organizing for Social Justice
+
+https://archive.org/details/103408393229317657351389752595471516049 Sam Altman on Choosing Projects, Creating Value, and Finding Purpose
+
+https://archive.org/details/35451101155920002301934246099928613894 'This Changes Everything' - An Evening with Naomi Klein
+
+https://archive.org/details/284247138761297473119379953426759652906 Naomi Oreskes on 'Giant Power - Technology, Energy, and the Beginnings of Post-Truth America'
+
+https://archive.org/details/285208355414351942500697451271519350510 Toni Morrison Nobel Lecture (1993)
+
+https://archive.org/details/265650275618931307782791954395021151065 Terence McKenna - Cast of Characters
