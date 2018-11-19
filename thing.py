@@ -1,5 +1,7 @@
 import sys
 import os
+import glob
+import re
 from subprocess import Popen, PIPE
 
 def dl():
@@ -8,35 +10,31 @@ def dl():
         return -1
     print('downloading ', sys.argv[1])
     cmd = 'youtube-dl -f \'bestaudio[ext=m4a]\' %s' % sys.argv[1]
-    result = Popen(cmd, shell=True, stdout=PIPE)
-    for line in result.stdout:
-        if 'ffmpeg' in str(line): 
-            file_name = str(line).split("Correcting container in ")[1][:-3]
-            file_name = file_name.replace('\"', '')
-
-    if file_name is None:
+    p = Popen(cmd, shell=True, stdout=PIPE)
+    p.wait()
+    fs = glob.glob('*.m4a')
+    if len(fs) == 0:
         print('bad download')
         return None
-    os.rename(file_name, file_name.replace(' ', '_'))
-    return file_name.replace(' ', '_')
+    return fs[0]
 
 def ul(fn):
-    print(fn)
-    cmd = 'ipfs add %s -Q' % fn
+    os.rename(fn, 'ul.m4a')
+    cmd = 'ipfs add %s -Q' % 'ul.m4a'
     result = Popen(cmd, shell=True, stdout=PIPE)
     for line in result.stdout:
         return line.decode('utf-8').replace('\n', '')
 
 def clean(fn, h):
-    if os.path.exists('TALKS.md'):
+    if os.path.exists('README.md'):
         a_w = 'a'
     else:
         a_w = 'w'
 
-    talks = open('TALKS.md', a_w)
-    talks.write('\nhttps://ipfs.io/ipfs/%s %s\n' % (h, fn))
+    talks = open('README.md', a_w)
+    talks.write('\nhttps://ipfs.io/ipfs/%s %s\n' % (h, fn[:-16]))
     talks.close()
-    os.remove(fn)
+    os.remove('ul.m4a')
 
 
 if __name__ == '__main__':
