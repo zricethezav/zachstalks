@@ -49,3 +49,5 @@ https://archive.org/details/244760828162794717337036948805333477008 Liberal Lear
 https://archive.org/details/179522399599631267565077788072438599665 Paul Stamets - Mushrooms for People and Planet Ancient Allies for Modern Maladies
 
 https://archive.org/details/38711304426008328184824797952443405897 Mushrooms, Mycology of Consciousness - Paul Stamets, EcoFarm Conference Keynote 2017
+
+https://archive.org/details/1584228234828665862918012921262397289 Chris Hedges and Cornel West in Conversation - Wages of Rebellion _ The New School
