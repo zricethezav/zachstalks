@@ -39,3 +39,5 @@ https://archive.org/details/285208355414351942500697451271519350510 Toni Morriso
 https://archive.org/details/265650275618931307782791954395021151065 Terence McKenna - Cast of Characters
 
 https://archive.org/details/63573633112758270239895599372807058642 Bill Ayers 'Public Enemy'
+
+https://archive.org/details/280746100584187447891729010026705854397 Tristan Harris - How Social Media and AI Hijack Your Brain
