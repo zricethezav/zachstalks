@@ -51,3 +51,5 @@ https://archive.org/details/179522399599631267565077788072438599665 Paul Stamets
 https://archive.org/details/38711304426008328184824797952443405897 Mushrooms, Mycology of Consciousness - Paul Stamets, EcoFarm Conference Keynote 2017
 
 https://archive.org/details/1584228234828665862918012921262397289 Chris Hedges and Cornel West in Conversation - Wages of Rebellion _ The New School
+
+https://archive.org/details/30524082982172261420505767033371526123 Baldwin speech in Harlem
