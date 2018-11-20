@@ -41,3 +41,5 @@ https://archive.org/details/265650275618931307782791954395021151065 Terence McKe
 https://archive.org/details/63573633112758270239895599372807058642 Bill Ayers 'Public Enemy'
 
 https://archive.org/details/280746100584187447891729010026705854397 Tristan Harris - How Social Media and AI Hijack Your Brain
+
+https://archive.org/details/331595468221295368182494952230645170753 10 Reasons to Get Off Social Media - Jaron Lanier
