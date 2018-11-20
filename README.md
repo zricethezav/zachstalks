@@ -37,3 +37,5 @@ https://archive.org/details/284247138761297473119379953426759652906 Naomi Oreske
 https://archive.org/details/285208355414351942500697451271519350510 Toni Morrison Nobel Lecture (1993)
 
 https://archive.org/details/265650275618931307782791954395021151065 Terence McKenna - Cast of Characters
+
+https://archive.org/details/63573633112758270239895599372807058642 Bill Ayers 'Public Enemy'
