@@ -45,3 +45,5 @@ https://archive.org/details/280746100584187447891729010026705854397 Tristan Harr
 https://archive.org/details/331595468221295368182494952230645170753 10 Reasons to Get Off Social Media - Jaron Lanier
 
 https://archive.org/details/244760828162794717337036948805333477008 Liberal Learning - Open Minds and Open Debate with Cornel West & Robert George
+
+https://archive.org/details/179522399599631267565077788072438599665 Paul Stamets - Mushrooms for People and Planet Ancient Allies for Modern Maladies
