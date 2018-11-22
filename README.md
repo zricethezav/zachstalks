@@ -62,3 +62,5 @@ https://archive.org/details/185945518406848073857941269126590946012 Slavoj Zizek
 https://archive.org/details/257840814674211310279722071077095142499 Chris Hedges on his latest book, America - The Farewell Tour
 
 https://archive.org/details/211834619787675990305738372333638501476 David Foster Wallace interview on 'Everything and More - A Compact History of Infinity' (2003)
+
+https://archive.org/details/274475966981418957829857733412350484793 SUN RA SPEAKS - BERKELEY LECTURE PT 1
