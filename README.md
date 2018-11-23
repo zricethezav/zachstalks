@@ -72,3 +72,5 @@ https://archive.org/details/320442657256882862024784606469385641136 SUN RA SPEAK
 https://archive.org/details/8591964797580389132069421235924420542 SUN RA SPEAKS - BERKELEY LECTURE PT 4
 
 https://archive.org/details/214393837269581528257347733978583390804 [Rare] David Foster Wallace interview - By Chris Lydon Feb. 1996
+
+https://archive.org/details/220191682327321145442060096082976183101 Radio Interview - David Foster Wallace and Bryan A. Garner (2001)
