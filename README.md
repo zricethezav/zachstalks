@@ -74,3 +74,5 @@ https://archive.org/details/8591964797580389132069421235924420542 SUN RA SPEAKS 
 https://archive.org/details/214393837269581528257347733978583390804 [Rare] David Foster Wallace interview - By Chris Lydon Feb. 1996
 
 https://archive.org/details/220191682327321145442060096082976183101 Radio Interview - David Foster Wallace and Bryan A. Garner (2001)
+
+https://archive.org/details/240891548201804904483881228175173711691 Chris Hedges - The American Empire Will Collapse Within a Decade, Two at Most (11-19-18)
