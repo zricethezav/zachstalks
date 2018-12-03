@@ -78,3 +78,5 @@ https://archive.org/details/220191682327321145442060096082976183101 Radio Interv
 https://archive.org/details/240891548201804904483881228175173711691 Chris Hedges - The American Empire Will Collapse Within a Decade, Two at Most (11-19-18)
 
 https://archive.org/details/81656756053284984044216200021237301650 Camille Paglia - Western Civilization is Dead (10-30-2018)
+
+https://archive.org/details/111040537102273799638243669087348850142 Terence McKenna -  Magic & the Hermetic Tradition (Lecture)
